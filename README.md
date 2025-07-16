@@ -1,0 +1,2 @@
+﻿# cli-api-ddd
+building a simple api tester to learn about DDD
